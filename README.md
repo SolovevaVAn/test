@@ -1,5 +1,5 @@
-*First title
-**Second title
+# First title
+## Second title
 
 Test list:
 - first
